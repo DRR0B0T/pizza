@@ -3,7 +3,7 @@ import filterReducer from '../reducers/filters'
 import pizzasReducer from '../reducers/pizzas'
 
 const rootReducer = combineReducers({
-    filter: filterReducer,
+    filters: filterReducer,
     pizzas: pizzasReducer,
 })
 

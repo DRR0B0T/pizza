@@ -7,8 +7,8 @@ import Button from "../Button";
 
 function PizzaBlock({ id, name, imageUrl, price, types, sizes, onClickAddPizza, addCountPizzas }) {
 
-    const typeNames = ['тонкое', 'традиционное']
     const availableSizes = [26, 30, 40]
+    const typeNames = ['тонкое', 'традиционное']
 
     const [activeType, setActiveType] = useState(types[0]);
     const [activeSize, setActiveSize] = useState(0);
@@ -92,7 +92,7 @@ function PizzaBlock({ id, name, imageUrl, price, types, sizes, onClickAddPizza, 
                 </Button>
             </div>
         </div>
-  
+  //TODO доделать корзину
  
     );
 }

@@ -1,3 +1,12 @@
+Проект сайта пиццерия.
+Stack tehnologies:
+ ReactJS
+- Redux (библиотека для хранения данных на клиентской части)
+- redux-thunk (доп. библиотека для Redux. Асинхроные действия).
+- React Router (библиотека для реализации переходов без перезагрузки страницы).
+- Axios (библиотека для отправки AJAX-запросов)
+- json-server (для хранения пицц на фейковом сервере)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

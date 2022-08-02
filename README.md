@@ -1,6 +1,6 @@
-#You can see result here: https://pizza-react-1.herokuapp.com/
+You can see result here: https://pizza-react-1.herokuapp.com/
 
-#**Stack:**
+**Stack:**
 
 - ReactJS + хуки
 - React Router

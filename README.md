@@ -1,8 +1,9 @@
-You can see result here: https://pizza-react-1.herokuapp.com/
+# Pizza shop (I love pizza!) 
+##You can see result here: https://pizza-react-1.herokuapp.com/
 
 **Stack:**
 
-- ReactJS + хуки
+- ReactJS + hooks
 - React Router
 - Redux
 - Redux thunk
